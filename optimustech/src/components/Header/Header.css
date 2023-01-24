@@ -1,0 +1,76 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 26px;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header .logo h1 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #3a404e;
+}
+
+.header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
+.header nav ul li button {
+  font-size: 16px;
+  font-weight: 500;
+  color: #667085;
+
+  background: none;
+  border: none;
+}
+
+.header nav ul li button:hover,
+.header .create-account .login:hover {
+  cursor: pointer;
+  color: #8e2424;
+  transition: 0.3s;
+}
+
+.header .create-account {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header .create-account button {
+  background: none;
+  border: none;
+}
+
+.header .create-account .login {
+  font-size: 16px;
+  font-weight: 500;
+  color: #667085;
+}
+
+.header .create-account .sing {
+  font-size: 16px;
+  font-weight: 500;
+  background: #8e2424;
+  color: white;
+
+  border-radius: 8px;
+
+  padding: 0.7rem 1rem;
+}
+
+.header .create-account .sing:hover {
+  cursor: pointer;
+  
+  transition: 0.3s;
+
+  background: pink;
+}
