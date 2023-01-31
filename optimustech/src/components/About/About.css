@@ -33,6 +33,5 @@
   justify-content: space-around;
   align-items: flex-start;
   padding: 0 10vw 14vh;
-  gap: 32px;
-  flex-wrap: wrap ;
+  flex-wrap: wrap;
 }

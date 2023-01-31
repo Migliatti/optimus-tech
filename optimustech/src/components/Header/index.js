@@ -5,7 +5,7 @@ const Header = () => {
     <header className="header">
       <div className="logo">
         <img src="/img/logo.svg" alt="Logo da Optimus Tech" />
-        <h1>Optimus Tech</h1>
+        <h1>OptimusTech</h1>
       </div>
       <nav>
         <ul>

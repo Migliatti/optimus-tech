@@ -1,0 +1,47 @@
+.collab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  box-sizing: border-box;
+  background: rgba(196, 25, 25, 0.03);
+  border-radius: 16px;
+
+  margin: 0 auto 96px;
+  padding: 64px;
+  width: 90vw;
+  max-width: 1216px;
+}
+
+.collab h3 {
+  font-weight: 600;
+  font-size: 14px;
+  color: #8e2424;
+  margin: 0;
+}
+
+.collab h2 {
+  font-size: 36px;
+  font-weight: 500;
+  color: #101828;
+  margin: 16px 0 32px;
+}
+
+.collab img {
+  width: 56px;
+}
+
+.collaborator {
+  font-size: 16px;
+  font-weight: 500;
+  color: #101828;
+  margin: 16px 0 4px;
+}
+
+.area {
+  font-size: 14px;
+  font-weight: 400;
+  color: #667085;
+  margin: 0;
+}

@@ -1,5 +1,7 @@
 import About from "./components/About";
 import Area from "./components/Area";
+import Collab from "./components/Collab";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Open from "./components/Open";
 
@@ -53,6 +55,8 @@ function App() {
         vagas={areasFiltradas2}
         key="Desenvolvimento de Software"
       />
+      <Collab />
+      <Footer />
     </div>
   );
 }
