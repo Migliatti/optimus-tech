@@ -1,0 +1,14 @@
+.area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.area h2 {
+  margin: 64px 0 32px;
+  max-width: 768px;
+  width: 70vw;
+  font-weight: 500;
+  font-size: 20px;
+  color: #101828;
+}

@@ -1,0 +1,35 @@
+.open {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.open h3 {
+  font-weight: 500;
+  font-size: 14px;
+  color: #8e2424;
+  background: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  padding: 4px 12px;
+  margin: 0;
+}
+
+.open h2 {
+  font-weight: 600;
+  font-size: 36px;
+  color: #101828;
+  margin: 20px 0;
+}
+
+.open p {
+  font-weight: 400;
+  font-size: 20px;
+  color: #667085;
+  margin: 0;
+}
+
+.open img {
+    max-width: 1216px;
+    width: 85vw;
+    margin: 64px 0 0;
+}

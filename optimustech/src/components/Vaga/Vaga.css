@@ -1,0 +1,28 @@
+.vaga {
+  box-sizing: border-box;
+  max-width: 768px;
+  width: 70vw;
+  border: 1px solid #eaecf0;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.vaga h3 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #101828;
+  margin: 0;
+}
+
+.vaga div {
+  display: flex;
+  gap: 24px;
+}
+
+.vaga p {
+  font-weight: 500;
+  font-size: 16px;
+  color: #667085;
+  margin: 32px 0 2px;
+}
