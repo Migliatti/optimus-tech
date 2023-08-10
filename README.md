@@ -13,5 +13,5 @@ Copie o link do projeto, no github, abra o terminal e siga as instruçoes:
 
 Agora você está pronto para começar a explorar e trabalhar neste projeto. Divirta-se!
 ## Site
-[Link do site](https://alura-space-lovat.vercel.app/)
+[Link do site](https://optimus-tech-ten.vercel.app/)
 
