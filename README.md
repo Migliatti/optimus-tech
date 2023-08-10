@@ -1,7 +1,17 @@
-# Consolidando ensinamentos de react
+#  Optimus-tech
+## Como Interagir com o Projeto
+Copie o link do projeto, no github, abra o terminal e siga as instruçoes:
 
-> Progresso do site: Finalizado
+1. Clone o repositório:
+    `git clone "link"`
 
-recriação de um site feito em html e css puro
+2. Navegue até o diretório do projeto:
+   `cd cep-request`
 
-* Para ver o projeto só clicar no link: https://optimus-tech-ten.vercel.app/
+3. Instale as dependências:
+   `npm install`
+
+Agora você está pronto para começar a explorar e trabalhar neste projeto. Divirta-se!
+## Site
+[Link do site](https://alura-space-lovat.vercel.app/)
+
